@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nahin
+- 👋 Hi, This is Nahin
 - 👀 I’m interested in deep learning specially in Computer Vision
-- 🌱 I’m currently learning video captioning
+- 🌱 I’m currently doing Image colorization using cGAN
 - 💞️ I’m looking to collaborate on any Computer Vision project
 - 📫 How to reach me --- you can email me at syednahinhossain@gmail.com
 
